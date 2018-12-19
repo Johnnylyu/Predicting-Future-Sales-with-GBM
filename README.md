@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Predicting time series sales with GBM.
 
 Project for Patrick Hall's Machine Learning Class, GWU 2018.
 
